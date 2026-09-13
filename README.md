@@ -106,4 +106,5 @@ npm run build
 ## 👨‍💻 Desenvolvido por
 
 
-[Adilson Costa] .(https://github.com/programadorcosta87-eng).
+[Adilson Costa]
+.(https://github.com/programadorcosta87-eng).
