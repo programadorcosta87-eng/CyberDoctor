@@ -17,8 +17,7 @@ Plataforma educacional interativa para treinamento em Cibersegurança e Hacker �
 
 ## 🛠️ Tecnologias
 
-- HTML5 / CSS3 / JavaScript
-- (Adicione aqui as tecnologias reais usadas)
+- HTML5 / TypeScript
 
 ## ⚠️ Aviso
 
