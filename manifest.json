@@ -1,0 +1,17 @@
+{
+  "name": "CyberDoctor",
+  "short_name": "CyberDoctor",
+  "description": "Treinamento simulado e gamificado de Cibersegurança.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#00ff88",
+  "icons": [
+    {
+      "src": "/bat-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

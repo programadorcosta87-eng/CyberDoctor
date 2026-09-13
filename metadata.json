@@ -1,0 +1,8 @@
+{
+  "name": "CyberDoctor",
+  "description": "Plataforma educacional interativa e isolada para treinar e testar conhecimentos em ferramentas de cibersegurança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
