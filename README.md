@@ -2,7 +2,7 @@
 
 Plataforma educacional interativa para treinamento em Cibersegurança e Hacker Ético.
 
-🔗 Acesse o projeto: https://seu-link-aqui.com
+🔗 Acesse o projeto: https://cyber-doctor.netlify.app/
 
 ---
 
