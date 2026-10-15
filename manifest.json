@@ -8,7 +8,7 @@
   "theme_color": "#00ff88",
   "icons": [
     {
-      "src": "/bat-icon.svg",
+      "src": "/images/bat-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
