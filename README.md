@@ -31,12 +31,16 @@ O ambiente foi pensado para que o usuário possa estudar conceitos relacionados 
 
 ## 🛠️ Tecnologias
 
-* HTML5 / TypeScript
-* React
+* TypeScript
+* React 19
 * Vite
-* JavaScript
-* CSS
+* Tailwind CSS 4
+* Motion
+* Express
+* JavaScript para recursos auxiliares, incluindo Service Worker
 * Progressive Web App (PWA)
+* Google GenAI — dependência presente no projeto
+* Lucide React — ícones
 
 ---
 
